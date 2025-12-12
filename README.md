@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I am a performance-driven **Full Stack Developer** based in **Pune, India**, currently pursuing my **Master's in Computer Science**. I specialize in building scalable **SaaS** platforms, interactive **EdTech** solutions, and complex **E-commerce** systems using the React ecosystem.
+I am a performance-driven **Full Stack Developer** based in **Pune, India**, currently pursuing my **Master's in Computer Science**. I specialize in building scalable **SaaS** platforms, interactive **EdTech** solutions, and complex **Enterprise** systems using the React ecosystem.
 
 - 🔭 I’m currently working on **High-performance SaaS architectures using Supabase & Cloudflare R2**.
 - 🌱 I’m currently exploring **Agentic AI workflows and Advanced System Design**.
@@ -43,19 +43,24 @@ I am a performance-driven **Full Stack Developer** based in **Pune, India**, cur
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[FlipFlow](https://github.com/Soham407/FlipFlow)** | A SaaS platform converting static PDFs into interactive 3D flipbooks. Features tiered subscriptions and hybrid storage. | `React` `Supabase` `Cloudflare R2` |
-| **[SQL Quest](https://github.com/Soham407/sqlquest)** | Gamified SQL learning platform with an in-browser sandbox engine and Monaco Editor integration. | `React` `Vite` `sql.js` `Framer Motion` |
-| **[macOS Portfolio](https://github.com/Soham407/macos-portfolio)** | A pixel-perfect web replica of the macOS desktop environment featuring draggable windows and a working dock. | `React 19` `Tailwind v4` `GSAP` |
-| **[Pure Elements](https://github.com/Soham407/Pureelements)** | Full-featured E-commerce store for Ayurvedic products with a custom PIN-protected admin dashboard. | `React` `TypeScript` `Zod` |
+| **[MR Tracking](https://github.com/Soham407/Mr_Tracking)** | Enterprise field force tracking app with real-time visit logging, geolocation, and admin analytics dashboards. | `React` `Supabase` `Recharts` |
+| **[SQL Quest](https://github.com/Soham407/sqlquest)** | Gamified SQL learning platform with an in-browser sandbox engine and Monaco Editor integration. | `React` `Vite` `sql.js` |
+| **[Pure Elements](https://github.com/Soham407/Pureelements)** | Full-featured E-commerce store for Ayurvedic products with a custom PIN-protected admin dashboard. | `React 19` `TypeScript` `Zod` |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soham407&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham407&layout=compact&langs_count=6&theme=cobalt&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soham407&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117" alt="Soham's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham407&theme=cobalt&hide_border=true&background=0D1117" alt="Soham's Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham407&layout=compact&langs_count=6&theme=cobalt&hide_border=true&bg_color=0D1117" alt="Soham's Top Languages" />
 </div>
+
 <br/>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham407&radius=16&theme=react&area=true&hide_border=true" width="100%" alt="activity graph" />
 </div>
