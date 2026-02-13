@@ -1,7 +1,7 @@
 <div align="center">
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=0&theme=cobalt" />
   <h1 align="center">Hi there, I'm Soham Bhutkar 👋</h1>
-  <h3 align="center">Full Stack Developer | SaaS & EdTech Specialist | CS Master's Student</h3>
+  <h3 align="center">Full Stack Developer | SaaS Specialist | CS Master's Student</h3>
 </div>
 
 <p align="center">
