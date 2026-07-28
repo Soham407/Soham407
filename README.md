@@ -38,9 +38,9 @@ Performance-driven Full Stack Developer in **Pune, India**, currently pursuing a
 
 ### 🛠️ Tech Stack
 
-| **Frontend** | **Backend & BaaS** | **Languages** | **Tools & AI** |
+| **Frontend** | **Backend & BaaS** | **Languages** | **Tools & Platforms** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,nextjs,redux" width="250" alt="React, TypeScript, Tailwind, Vite, Next.js, Redux" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,firebase" width="250" alt="Node.js, Express, Supabase, Postgres, MongoDB, Firebase" /> | <img src="https://skillicons.dev/icons?i=js,py,java,c,php,html,css" width="250" alt="JavaScript, Python, Java, C, PHP, HTML, CSS" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" width="250" alt="Git, GitHub, VS Code, Postman, Figma, Docker" /> |
+| <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,nextjs,redux" width="250" alt="React, TypeScript, Tailwind, Vite, Next.js, Redux" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,cloudflare" width="250" alt="Node.js, Express, Supabase, Postgres, MongoDB, Cloudflare" /> | <img src="https://skillicons.dev/icons?i=js,py,java,c,php,html,css" width="250" alt="JavaScript, Python, Java, C, PHP, HTML, CSS" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" width="250" alt="Git, GitHub, VS Code, Postman, Figma, Vercel" /> |
 
 ---
 
