@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="340" viewBox="0 0 1200 340"
+     role="img" aria-labelledby="t d">
+  <title id="t">Soham Bhutkar — Full Stack Developer</title>
+  <desc id="d">Name, role and location beside a list of four shipped products: FlipFlow, MR Tracking, SQL Quest and Pure Elements.</desc>
+
+  <rect width="1200" height="340" rx="24" fill="#0B1120"/>
+  <rect x="0" y="0" width="6" height="340" rx="3" fill="#3D8BFD"/>
+
+  <g id="title-block" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="64" y="88" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="14" letter-spacing="2.4" fill="#7D8BA1">FULL STACK DEVELOPER · PUNE, INDIA</text>
+
+    <text x="64" y="152" font-size="56" font-weight="700" fill="#E6EDF6">Soham Bhutkar</text>
+
+    <text x="64" y="200" font-size="19" fill="#A9B6C8">I build scalable SaaS platforms on React and Supabase —</text>
+    <text x="64" y="228" font-size="19" fill="#A9B6C8">from 3D flipbook rendering to field-force tracking.</text>
+
+    <text x="64" y="284" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="14" fill="#5F6D82">MSc Computer Science · in progress</text>
+  </g>
+
+  <g id="shipped" transform="translate(700 0)"
+     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="0" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+          font-size="13" letter-spacing="3" fill="#5F6D82">SHIPPED</text>
+
+    <g transform="translate(0 100)">
+      <rect width="436" height="44" rx="10" fill="#121C2E" stroke="#1E2C44"/>
+      <circle cx="22" cy="22" r="4" fill="#4ADE80"/>
+      <text x="42" y="21" font-size="16" font-weight="600" fill="#E6EDF6">FlipFlow</text>
+      <text x="42" y="37" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+            font-size="11.5" fill="#7D8BA1">PDF → interactive 3D flipbooks · React · Supabase · R2</text>
+    </g>
+
+    <g transform="translate(0 152)">
+      <rect width="436" height="44" rx="10" fill="#121C2E" stroke="#1E2C44"/>
+      <circle cx="22" cy="22" r="4" fill="#4ADE80"/>
+      <text x="42" y="21" font-size="16" font-weight="600" fill="#E6EDF6">MR Tracking</text>
+      <text x="42" y="37" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+            font-size="11.5" fill="#7D8BA1">field-force geolocation + analytics · React · Supabase</text>
+    </g>
+
+    <g transform="translate(0 204)">
+      <rect width="436" height="44" rx="10" fill="#121C2E" stroke="#1E2C44"/>
+      <circle cx="22" cy="22" r="4" fill="#4ADE80"/>
+      <text x="42" y="21" font-size="16" font-weight="600" fill="#E6EDF6">SQL Quest</text>
+      <text x="42" y="37" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+            font-size="11.5" fill="#7D8BA1">in-browser SQL sandbox · Vite · sql.js · Monaco</text>
+    </g>
+
+    <g transform="translate(0 256)">
+      <rect width="436" height="44" rx="10" fill="#121C2E" stroke="#1E2C44"/>
+      <circle cx="22" cy="22" r="4" fill="#4ADE80"/>
+      <text x="42" y="21" font-size="16" font-weight="600" fill="#E6EDF6">Pure Elements</text>
+      <text x="42" y="37" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+            font-size="11.5" fill="#7D8BA1">ayurvedic e-commerce + admin · React 19 · TypeScript</text>
+    </g>
+  </g>
+</svg>
