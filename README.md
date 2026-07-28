@@ -47,8 +47,8 @@ Performance-driven Full Stack Developer in **Pune, India**, currently pursuing a
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-zeta-black-60.vercel.app/api?username=Soham407&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1120&title_color=3D8BFD&text_color=A9B6C8&icon_color=4ADE80" height="170" alt="Soham's GitHub stats" />
-  <img src="https://github-readme-stats-zeta-black-60.vercel.app/api/top-langs?username=Soham407&layout=compact&langs_count=8&hide_border=true&bg_color=0B1120&title_color=3D8BFD&text_color=A9B6C8" height="170" alt="Most used languages" />
+  <img src="https://soham-stats.vercel.app/api?username=Soham407&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1120&title_color=3D8BFD&text_color=A9B6C8&icon_color=4ADE80" height="170" alt="Soham's GitHub stats" />
+  <img src="https://soham-stats.vercel.app/api/top-langs?username=Soham407&layout=compact&langs_count=8&hide_border=true&bg_color=0B1120&title_color=3D8BFD&text_color=A9B6C8" height="170" alt="Most used languages" />
 </div>
 
 <div align="center">
