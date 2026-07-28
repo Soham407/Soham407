@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Soham Bhutkar — Full Stack Developer in Pune, India, with four shipped products: FlipFlow, MR Tracking, SQL Quest and Pure Elements">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Soham Bhutkar — Full Stack Developer in Pune, India, with four shipped products: VC Scanner, SOLVESXX, studio-kickstart and Orvion IntelliAct">
 </p>
 
 <p align="center">
@@ -17,10 +17,12 @@
 
 | Project | What it does | Tech |
 | :--- | :--- | :--- |
-| **[FlipFlow](https://github.com/Soham407/FlipFlow)** | SaaS platform that turns static PDFs into interactive 3D flipbooks. Tiered subscriptions, hybrid storage. | `React` `Supabase` `Cloudflare R2` |
-| **[MR Tracking](https://github.com/Soham407/Mr_Tracking)** | Enterprise field-force tracker: real-time visit logging, geolocation, admin analytics. | `React` `Supabase` `Recharts` |
-| **[SQL Quest](https://github.com/Soham407/sqlquest)** | Gamified SQL learning platform with an in-browser sandbox engine. | `React` `Vite` `sql.js` |
-| **[Pure Elements](https://github.com/Soham407/Pureelements)** | E-commerce store for Ayurvedic products with a PIN-protected admin dashboard. | `React 19` `TypeScript` `Zod` |
+| **[VC Scanner](https://github.com/Soham407/VC-Scanner)** · [live](https://vc-scanner-iota.vercel.app) | Business-card scanner: on-device OCR on mobile, plus a separate admin web app for parsing and managing captures. | `Expo` `React Native` `ML Kit` `Supabase` `Groq` |
+| **[SOLVESXX](https://github.com/Soham407/Solvesxx_web)** · [live](https://facilitypro-vert.vercel.app) | Facility operations cloud for Powerful Solutions Pvt Ltd — workforce coordination, procurement and service management. | `Next.js` `TypeScript` `Supabase` `PLpgSQL` |
+| **[studio-kickstart](https://github.com/Soham407/studio-kickstart)** · [npm](https://www.npmjs.com/package/studio-kickstart) | Published CLI (`npx studio-kickstart`) that bootstraps agent-ready Next.js, Expo and Solito projects with auth, tests, formatting and guardrails preconfigured. | `Node` `CLI` `Better-Auth` `WatermelonDB` |
+| **[Orvion IntelliAct](https://github.com/Soham407/Orvion-IntelliAct)** · [live](https://orvion-intelli-act.vercel.app) | Platform for an industrial automation firm covering power, chemicals, refineries and water SCADA. | `Next.js` `Supabase` `GSAP` |
+| **[Think UX](https://github.com/Soham407/Thinkux)** · [live](https://thinkux.vercel.app) | Portfolio platform for a design and branding agency, built around an animation-heavy asset strategy. | `Next.js` `Framer Motion` |
+| **[FlipFlow](https://github.com/Soham407/FlipFlow)** · [live](https://flip-flow.vercel.app) | SaaS that turns static PDFs into interactive 3D flipbooks, with tiered subscriptions and hybrid storage. | `React` `Supabase` `Cloudflare R2` |
 
 ---
 
@@ -30,7 +32,7 @@ Performance-driven Full Stack Developer in **Pune, India**, currently pursuing a
 
 - 🔭 Working on high-performance SaaS architectures with **Supabase & Cloudflare R2**
 - 🌱 Exploring **agentic AI workflows** and advanced system design
-- ⚡ Once built a pixel-perfect **macOS replica** that runs entirely in the browser
+- ⚡ Once built a pixel-perfect **[macOS replica](https://github.com/Soham407/MacOs-Portfolio)** that runs entirely in the browser
 
 ---
 
